@@ -9,8 +9,7 @@
 <p align="center">Nesta aula veremos algumas funcionalidades no CSS#:</p><br>
 <ul style= "text-align: center; list-style-type: none">
     <li> Estilizar cada etapa de um link utilizando as pseudo classes do CSS3</li><br>
-    <li> </li><br>
-    <li> </li><br>
+    <li> Estilizar de diferenciada com pseudo-elementos</li><br>
 </ul>
 
 <br>
