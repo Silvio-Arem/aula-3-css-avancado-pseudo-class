@@ -18,8 +18,9 @@ a:active{
     color: palevioletred;
 }
 
-p::first-line{
+.pseudoP::first-line{
     color: green;
     font-variant: small-caps;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
 }
