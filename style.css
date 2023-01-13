@@ -17,3 +17,9 @@ a:hover{
 a:active{
     color: palevioletred;
 }
+
+p::first-line{
+    color: green;
+    font-variant: small-caps;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
