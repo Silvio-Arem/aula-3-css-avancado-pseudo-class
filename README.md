@@ -17,7 +17,7 @@
 <h2 align="center">:rocket: Demonstração</h2>
 
 <div align="center"> 
-  <a href="https://silvio-arem.github.io/aula-2-sass-grid/index.html">Clique aqui para ver o projeto em execução</a>
+  <a href="https://silvio-arem.github.io/aula-3-sass-pseudo-class/">Clique aqui para ver o projeto em execução</a>
 </div>
 <br>
 
